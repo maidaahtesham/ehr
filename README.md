@@ -1,4 +1,4 @@
-#ehr
+#Electronic Health Record System
 ## Getting Started
 
 First, run the development server:
